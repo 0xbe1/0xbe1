@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xbe1
-- 👀 I’m interested in blockchain and web3
+- 👀 I’m interested in web3 development
 - 🌱 I’m currently learning solidity
 
 <!---
