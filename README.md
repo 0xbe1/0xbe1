@@ -1,6 +1,6 @@
 # 👋 I'm @0xbe1
 
-Seasoned web2 developers who is getting his hands dirty in web3.
+Just an ex- @twitter @google @amazon backend dev who recently jump into the web3 ocean
 
 I am building:
 - [name3](https://name3.org) - a small site to help you pick your untaken name in web3.
