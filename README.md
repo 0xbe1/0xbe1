@@ -3,7 +3,7 @@
 Just an ex- @twitter @google @amazon backend dev who recently jump into the web3 ocean
 
 I am building:
-- [startblock](https://startblock.vercel.app) - a small site to help you find the start block of a smart contract, on many networks.
+- [miniscan](https://miniscan.xyz) - a small site to help you find the key info of a smart contract.
 - [name3](https://name3.org) - a small site to help you pick your untaken name in web3.
 
 <!---
