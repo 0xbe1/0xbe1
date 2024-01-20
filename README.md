@@ -1,6 +1,6 @@
 # 👋 I'm 0xbe1
 
-I'm leading the dev team at [Thala Labs](https://twitter.com/ThalaLabs) ($80M peak TVL, #1 on Aptos). Prior to this, I worked at Messari, Twitter, Google, and several startups.
+I'm leading the dev team at [Thala Labs](https://twitter.com/ThalaLabs) ($100M peak TVL, #1 on Aptos). Prior to this, I worked at Messari, Twitter, Google, and several startups.
 
 ## Work
 
